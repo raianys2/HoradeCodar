@@ -13,11 +13,14 @@ function execAtividade2 () {
 alert ("Olá, " + nome + ".");}
 
 //Atividade 3
-function execAtividade3 () {
-    
-    var idade = prompt ("E qual é a sua idade?");
+function execAtividade3() {
+    var nome = prompt ("Qual o seu nome?");
+    var idade = prompt("E qual é a sua idade?");
 
-alert ("Olá, " + nome +"! \nVocê tem " + idade + " anos.");}
+
+    alert("Olá, " + nome + "! \nVocê tem " + idade + " anos.");
+}
+
 
 // Atividade 4 
 
